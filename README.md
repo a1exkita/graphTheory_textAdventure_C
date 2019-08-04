@@ -14,8 +14,8 @@ The contents are:
 ## 🚀 Compile files
 Compile kitaa.buildrooms.c and kitaa.adventure.c, and then run kitaa.buildrooms and kitaa.adventure in this order as follows.
 ```bash
-$ gcc -o kitaa.buildrooms -c kitaa.buildrooms.c
-$ gcc -o kitaa.adventure -c kitaa.adventure.c
+$ gcc -o kitaa.buildrooms kitaa.buildrooms.c
+$ gcc -o kitaa.adventure kitaa.adventure.c
 $ kitaa.buildrooms
 $ kitaa.adventure
 ```

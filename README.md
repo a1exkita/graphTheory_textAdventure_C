@@ -1,5 +1,4 @@
-# cs344_as2
-text adventure with graph structure
+# text adventure with graph structure
 
 ## 📝 Contents
 It is a primitive text adventure on my Operating System class.
